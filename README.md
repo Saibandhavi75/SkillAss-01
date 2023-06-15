@@ -1,4 +1,4 @@
-# SkillAss-01
+# SkillAss-02
 Develop a program to create a Thread using Android Studio
 ## AIM:
 Develop a program to perform Thread Creation using Android Studio
